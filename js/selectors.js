@@ -18,6 +18,6 @@ function divSelector(){
   return $('.pics')
 }
 
-function firstListItem(){
-  return $('#pic-list img:first-child')
-}
+// function firstListItem(){
+//   return $('#pic-list img:first-child')
+// }
