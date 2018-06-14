@@ -5,3 +5,7 @@ function paragraphSelector(){
   let pSelector = $('p');
   return pSelector;
 }
+
+function lastImageSelector(){
+  return $()
+}
