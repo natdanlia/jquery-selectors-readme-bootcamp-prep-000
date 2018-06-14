@@ -1,7 +1,7 @@
-// // declare your functions here...
+// declare your functions here...
 
 
-// function paragraphSelector(){
-//   let pSelector = $('p');
-//   return pSelector;
-// }
+function paragraphSelector(){
+  let pSelector = $('p');
+  return pSelector;
+}
